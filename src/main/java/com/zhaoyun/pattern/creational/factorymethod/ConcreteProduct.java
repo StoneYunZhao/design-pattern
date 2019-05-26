@@ -1,4 +1,4 @@
-package com.zhaoyun.pattern.creation.factorymethod;
+package com.zhaoyun.pattern.creational.factorymethod;
 
 /**
  * Created by ZhaoYun on 2019-05-19
